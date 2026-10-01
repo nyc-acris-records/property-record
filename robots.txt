@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nyc-acris-records.github.io/property-record/sitemap.xml
