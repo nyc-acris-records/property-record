@@ -7,7 +7,7 @@ A static, publicly accessible webpage documenting a 2025 real-estate transaction
 A factual summary of publicly recorded property documents for:
 
 - **Property:** 235 East 40th Street, Unit 17E, New York, NY 10016
-- **Buyers:** Goutham Goli and Pranathi Goli
+- **Buyer:** Pranathi Goli
 - **Seller:** Shiaw-Chun Shang
 - **Recorded:** September 2, 2025
 
